@@ -16,7 +16,7 @@ Generate complete, production-ready YouTube scripts in seconds. By inputting you
 
 ## 📸 App Interface
 
-![dashboard](image.png)
+![dashboard](dashboard.png)
 
 ---
 
